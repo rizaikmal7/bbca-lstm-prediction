@@ -56,7 +56,7 @@ Hyperparameters were found using **Keras Tuner — Bayesian Optimization** (25 t
 
 ```
 bbca-lstm-prediction/
-├── BBCA_LSTM_Improved_4.ipynb   # Main notebook
+├── BBCA_LSTM.ipynb   # Main notebook
 ├── requirements.txt              # Python dependencies
 ├── README.md                     # This file
 └── .gitignore                    # Python + model file exclusions
@@ -118,7 +118,7 @@ pip install -r requirements.txt
 ```
 
 ### 3. Run the notebook
-Open `BBCA_LSTM_Improved_4.ipynb` in Jupyter or Google Colab and run all cells in order.
+Open `BBCA_LSTM.ipynb` in Jupyter or Google Colab and run all cells in order.
 
 > 💡 **Recommended:** Use Google Colab with T4 GPU for ~10x faster training.
 
