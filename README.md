@@ -108,7 +108,7 @@ Fold 3: train 2015→2021 (1637 rows) | val 2021→2023 (400 rows)
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/bbca-lstm-prediction.git
+git clone https://github.com/rizaikmal7/bbca-lstm-prediction.git
 cd bbca-lstm-prediction
 ```
 
