@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Model weights (too large for git)
+*.keras
+*.h5
+
+# Keras Tuner cache
+kt_tuning_v4/
+kt_tuning/
+
+# Local experiment outputs
+bbca_lstm_best_v4.keras
