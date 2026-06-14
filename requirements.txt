@@ -1,0 +1,10 @@
+yfinance
+keras
+tensorflow
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+keras-tuner
+statsmodels
